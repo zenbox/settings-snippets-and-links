@@ -1,6 +1,4 @@
-# settings-snippets-and-links
-
-VSCode settings, code snippets and links for workshop themes
+# VSCode-Einstellungen und Codesnippets für unsere Workshop, Links zu den Themen
 
 ## Links zur Barrierefreiheit
 
