@@ -1,5 +1,5 @@
 {
-    "Test":{
+    "Test (Workshop)":{
         "prefix":"test with features",
         "description":"la le lu",
         "body":[
@@ -14,7 +14,7 @@
         ],
         "scope": "html"
     },
-    "Docblock":{
+    "Docblock (Workshop)":{
         "prefix":"docblock",
         "description":"document block comment",
         "scope":"javascript, css",
@@ -33,5 +33,46 @@
             "${BLOCK_COMMENT_END}",
             "$0"
         ]
+    },
+    "Class (Workshop)":{
+        "prefix":"class",
+        "description":"class with constructor an method",
+        "scope": "javascript",
+        "body":[
+            "/**",
+            " * $1",
+            " * @class",
+            " * Build a $1 data object",
+            " */",
+            "class $1 {",
+            "    /** ",
+            "     * @constructor",
+            "     * @param   {number} arg - a sample argument",
+            "     * @returns {void}",
+            "     */",
+            "    constructor (arg = 42) {",
+            "        this._arg = arg;",
+            "    }",
+            "",
+            "    /**",
+            "     * Set the arg value",
+            "     * @param   {number} value",
+            "     * @returns {boolean} - for unit testing",
+            "     */",
+            "    set arg (value = undefined) {",
+            "        try {",
+            "            this._arg = value;",
+            "            return true;",
+            "        } catch (error) {",
+            "            // Either break",
+            "            // throw error;",
+            "            // or continue the process ",           
+            "            console.error(error);",
+            "            return false;",
+            "        }",
+            "    }",
+            "}"
+        ]
     }
+    
 }
