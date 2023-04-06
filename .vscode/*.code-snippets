@@ -1,0 +1,37 @@
+{
+    "Test":{
+        "prefix":"test with features",
+        "description":"la le lu",
+        "body":[
+            "<!-- $1 -->",
+			"<!-- @author ${$2:Michael} ->",
+			"<!-- ${TM_DIRECTORY} -->",
+			"<!-- ${TM_FILENAME} -->",
+			"<!-- ${CURRENT_YEAR}/${CURRENT_MONTH}/${CURRENT_DATE} -->",
+			"<!-- ${} -->",
+			"<!-- ${} -->",
+			"$0"
+        ],
+        "scope": "html"
+    },
+    "Docblock":{
+        "prefix":"docblock",
+        "description":"document block comment",
+        "scope":"javascript, css",
+        "body": [
+            "/** $TM_FILENAME",
+            " * @desc $1",
+            " *        ",
+            " * @package   Webapplication",
+            " * @module    $2",
+            " * @author    Michael Reichart",
+            " * @since     ${CURRENT_YEAR}/${CURRENT_MONTH}/${CURRENT_DATE}",
+            " * @since     1.0.0",
+            " * @version   1.0.0",
+            " * @copyright ${CURRENT_YEAR} Michael Reichart",
+            " * @license   C BY-SA",
+            "${BLOCK_COMMENT_END}",
+            "$0"
+        ]
+    }
+}
