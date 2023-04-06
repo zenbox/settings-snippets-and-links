@@ -1,0 +1,10 @@
+{
+    "Test":{
+        "prefix":"test wirh features",
+        "description":"la le lu",
+        "body":[
+            "<!--  -->"
+        ],
+        "scope": "html"
+    }
+}
