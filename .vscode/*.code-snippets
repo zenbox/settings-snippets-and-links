@@ -73,6 +73,12 @@
             "    }",
             "}"
         ]
+    },
+    "separator line": {
+        "prefix": "--",
+        "description": "just a single comment line with 10 dashes",
+        "scope":"javascript",
+        "body": ["// - - - - - - - - - -"]
     }
-    
+  
 }
