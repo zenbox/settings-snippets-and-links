@@ -1,9 +1,13 @@
 // Javascript Codesnippets ausprobieren
-// 
-// 'docblock' 
+//
+// 'docblock' - Docblock (workshop)
 //  der Kommentar am Beginn eines Dokuments.
 
-
-
-// 'class'
+// 'class' - Class (workshop)
 //  eine Klasse mit Konstruktor und Methode.
+
+// 'method' - Class' method (workshoo)
+// eine Methode für eine Klasse
+
+// '--' - Line separator (workshop)
+// eine Trennlinie

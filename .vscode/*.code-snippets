@@ -1,7 +1,8 @@
 {
-    "Test (Workshop)":{
+    "Test (workshop)":{
         "prefix":"test with features",
         "description":"la le lu",
+        "scope":"html",
         "body":[
             "<!-- $1 -->",
 			"<!-- @author ${$2:Michael} ->",
@@ -12,9 +13,8 @@
 			"<!-- ${} -->",
 			"$0"
         ],
-        "scope": "html"
     },
-    "Docblock (Workshop)":{
+    "Docblock (workshop)":{
         "prefix":"docblock",
         "description":"document block comment",
         "scope":"javascript, css",
@@ -34,7 +34,7 @@
             "$0"
         ]
     },
-    "Class (Workshop)":{
+    "Class (workshop)":{
         "prefix":"class",
         "description":"class with constructor an method",
         "scope": "javascript",
@@ -52,6 +52,7 @@
             "     */",
             "    constructor (arg = 42) {",
             "        this._arg = arg;",
+            "        $0;",
             "    }",
             "",
             "    /**",
@@ -67,18 +68,38 @@
             "            // Either break",
             "            // throw error;",
             "            // or continue the process ",           
-            "            console.error(error);",
+            "            console.error(\"set arg error.\", error.message, error.name);",
             "            return false;",
             "        }",
             "    }",
-            "}"
+            "}",
+            "$0"
         ]
     },
-    "separator line": {
+    "Separator line (workshop)": {
         "prefix": "--",
         "description": "just a single comment line with 10 dashes",
         "scope":"javascript",
-        "body": ["// - - - - - - - - - -"]
+        "body": ["// - - - - - - - - - -$0"]
+    },
+    "Method (workshop)":{
+        "prefix":"method",
+        "description":"a class' method",
+        "scope":"javascript",
+        "body":[
+            "/**",
+            " * $1",
+            " * @param   {$2} - $3",
+            " * @returns {$4}",
+            " */",
+            "$1(){",
+            "    try {",
+            "        $0;",
+            "    } catch (error){",
+            "        console.error(\"$1 error.\", error.message, error.name)",
+            "    }",
+            "}"
+        ]
     }
   
 }
