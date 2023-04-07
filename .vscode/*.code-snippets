@@ -77,7 +77,7 @@
         ]
     },
     "Separator line (workshop)": {
-        "prefix": "--",
+        "prefix": "line",
         "description": "just a single comment line with 10 dashes",
         "scope":"javascript, sass",
         "body": ["// - - - - - - - - - -$0"]

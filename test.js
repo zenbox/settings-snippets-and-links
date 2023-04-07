@@ -9,5 +9,9 @@
 // 'method' - Class' method (workshoo)
 // eine Methode für eine Klasse
 
-// '--' - Line separator (workshop)
+// 'line' - Line separator (workshop)
 // eine Trennlinie
+
+// 'import' - ES6 import
+// ein ES6 Modul importieren
+
