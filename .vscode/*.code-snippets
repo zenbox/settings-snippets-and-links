@@ -44,7 +44,7 @@
             " * @class",
             " * Build a $1 data object",
             " */",
-            "class $1 {",
+            "export default class $1 {",
             "    /** ",
             "     * @constructor",
             "     * @param   {number} arg - a sample argument",
@@ -79,7 +79,7 @@
     "Separator line (workshop)": {
         "prefix": "--",
         "description": "just a single comment line with 10 dashes",
-        "scope":"javascript",
+        "scope":"javascript, sass",
         "body": ["// - - - - - - - - - -$0"]
     },
     "Method (workshop)":{
@@ -99,6 +99,15 @@
             "        console.error(\"$1 error.\", error.message, error.name)",
             "    }",
             "}"
+        ]
+    },
+    "ES6 import (workshop)":{
+        "prefix":"import",
+        "description":"ES6 import",
+        "scope":"javascript",
+        "body":[
+            "import $1 from \"./$1\";",
+            "$0"
         ]
     }
   
