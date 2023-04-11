@@ -51,6 +51,7 @@
 -   [Die nächste barrierefreie Farben finden](https://www.learnui.design/tools/accessible-color-generator.html)
 -   [Adobe Color Barrierefreiheitstool](https://color.adobe.com/de/create/color-contrast-analyzer)
 -   [tota11y (Khan Academy)](https://khan.github.io/tota11y/)
+-   [Google Accessibilty Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 
 ### Infos
 
