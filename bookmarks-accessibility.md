@@ -87,3 +87,11 @@
 
 -   [Exklusives Design (Forschung)](https://exclusive-design.vasilis.nl/)
 -   [Inklusives Design](https://inclusivedesignprinciples.org/)
+
+# Webseiten mit interessanten Details
+
+-   [stripe.com (Gute Navigationslösung)](https://stripe.com/en-de)
+-   [zalando.de (Gute Navigationslösung)](https://www.zalando.de/)
+-   [Beispiel für `focus management`](https://headlessui.com/react/listbox#focus-management)
+-   (Diakonie (Gute Barrierefreiheit))[https://karriere.diakonie.de/]
+-   (Blindenverband Nordrhein (Gute Barrierefreiheit))[https://www.bsv-nordrhein.de/]
