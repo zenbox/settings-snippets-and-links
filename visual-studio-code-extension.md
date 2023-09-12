@@ -17,5 +17,7 @@
 - **Markdown All in One** (Yu Zhang); https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
 - **Markdown Preview Github Styling** (Matt Bierner); https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles
 - **Material Icon Theme** (Philipp Kief); https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+- **Project Snippets** (Peng Lv); https://marketplace.visualstudio.com/items?itemName=rebornix.project-snippets
+
 
 Weitere Extensions sollten bei Bedarf installiert werden können.
