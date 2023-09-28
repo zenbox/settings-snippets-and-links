@@ -7,14 +7,14 @@
 -   [headingsmap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=de)
 -   [WCAG Color Contrast Checker](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=de)
 -   [SkipTo Landmarks & Headings](https://chrome.google.com/webstore/detail/skipto-landmarks-headings/fjkpbfcodhflpdildjbmdhhmcoplghgf)
--   [WAVE Web Accessibilty Evaluation Tool]{https://wave.webaim.org/extension/}
+-   [WAVE Web Accessibilty Evaluation Tool](https://wave.webaim.org/extension/)
 
 ## Chrome Extensions zur Simulation
 
 -   [Accessibility View](https://chrome.google.com/webstore/detail/accessibility-view/ekpmnemcmjcimpnmofmiaeoggjkjohjg?hl=de)
 -   [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=de)
 -   [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg?hl=de)
--   [SilkTide Disability Simulator]{https://silktide.com/tools/toolbar/}
+-   [SilkTide Disability Simulator](https://silktide.com/tools/toolbar/)
 
 ## Testen
 
