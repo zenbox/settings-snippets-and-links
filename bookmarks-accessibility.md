@@ -82,6 +82,8 @@
 
 -   [Leserlichkeit](https://www.leserlich.info/)
 -   [Lexend - Font für Dyslexie](https://www.lexend.com/)
+-   [Dyslexie Font](https://www.dyslexiefont.com/)
+-   [Atkinson Hyperlegible (Font bei Foogle Fonts)](https://fonts.google.com/specimen/Atkinson+Hyperlegible)
 
 ### Lesbarkeit
 
