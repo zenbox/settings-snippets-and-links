@@ -30,16 +30,27 @@
 ### WCAG
 
 -   [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
+-   [WCAG Quickref](https://www.w3.org/WAI/WCAG22/quickref/)
 -   [WCAG 2.0 in deutsch](https://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/WCAG20-de/)
 -   [Wie man die WCAG erfüllt](https://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/How-to-Meet-WCAG-2.0/#qr-text-equiv-all)
 -   [WAI Authoring Practise Guide](https://www.w3.org/WAI/ARIA/apg/)
 -   [ARIA Roles and Attributes (Mozilla)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+
+### Andere Ausarbeitungen
+
+[web.dev (Google)](https://web.dev/learn/accessibility)
+[Readability & accessibility (Google)](https://fonts.google.com/knowledge/readability_and_accessibility)
 
 ### BITV
 
 -   [BITV](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html)
 -   [BIK - Barrierefrei informieren und kommunizieren](https://bik-fuer-alle.de/barrierefreiheit-umsetzen.html)
 -   [BITV Prüfschritte](https://ergebnis.bitvtest.de/pruefverfahren?tx_twbitvtest_procedure%5Baction%5D=show&tx_twbitvtest_procedure%5Bcontroller%5D=Procedure&tx_twbitvtest_procedure%5Bprocedure%5D=11&cHash=4a277975185785af9c687eb03489b3ef)
+
+### Komponenten und Patterns
+
+[inclusive components design pattern](https://inclusive-components.design/)
+[Patterns (W3)](https://www.w3.org/WAI/ARIA/apg/patterns/)
 
 ### Assistenzen
 
