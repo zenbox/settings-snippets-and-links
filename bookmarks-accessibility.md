@@ -20,6 +20,7 @@
 
 -   [tota11y (Khan Academy)](https://khan.github.io/tota11y/)
 -   [Google Accessibilty Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
+-   [Barrierefreiheit umfangreich testen](https://chromewebstore.google.com/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce?utm_source=ext_app_menu)
 
 ## Statistik
 
@@ -66,7 +67,6 @@
 
 -   [Sim Daltonismn (Mac)](https://michelf.ca/projects/sim-daltonism/)
 -   [Color Blindness (Windows)](https://apps.microsoft.com/detail/9NBLGGH4385H?hl=en-US&gl=US)
--   [Barrierefreiheit umfangreich testen](https://chromewebstore.google.com/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce?utm_source=ext_app_menu)
 -   [Farben und Kontraste in Echtzeit prüfen](https://contrast-checker.glitch.me/)
 -   [Farben und Kontraste mit Farbskalen](https://colorbox.io/)
 -   [Farben und Kontraste für Texte](https://webaim.org/resources/contrastchecker/)
