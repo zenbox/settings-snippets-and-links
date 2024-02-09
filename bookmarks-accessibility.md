@@ -92,7 +92,7 @@
 
 -   [Lesbarkeit testen](http://leichtlesbar.ch/html/)
 
-### Beipiele
+### Beispiele
 
 -   [Berufsgenossenschaft in Leichter Sprache](https://www.bgw-online.de/bgw-online-de/begriffe-in-leichter-sprache-berufs-genossenschaft-einfach-28780)
 
