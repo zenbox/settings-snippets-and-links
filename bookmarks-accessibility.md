@@ -8,6 +8,7 @@
 -   [WCAG Color Contrast Checker](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=de)
 -   [SkipTo Landmarks & Headings](https://chrome.google.com/webstore/detail/skipto-landmarks-headings/fjkpbfcodhflpdildjbmdhhmcoplghgf)
 -   [WAVE Web Accessibilty Evaluation Tool](https://wave.webaim.org/extension/)
+-   [Barrierefreiheit umfangreich testen](https://chromewebstore.google.com/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce?utm_source=ext_app_menu)
 
 ## Chrome Extensions zur Simulation
 
@@ -20,7 +21,6 @@
 
 -   [tota11y (Khan Academy)](https://khan.github.io/tota11y/)
 -   [Google Accessibilty Developer Tools](https://github.com/GoogleChrome/accessibility-developer-tools)
--   [Barrierefreiheit umfangreich testen](https://chromewebstore.google.com/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce?utm_source=ext_app_menu)
 
 ## Statistik
 
