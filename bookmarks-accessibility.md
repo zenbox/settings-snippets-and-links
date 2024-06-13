@@ -113,3 +113,10 @@
 -   [Beispiel für `focus management`](https://headlessui.com/react/listbox#focus-management)
 -   (Diakonie (Gute Barrierefreiheit))[https://karriere.diakonie.de/]
 -   (Blindenverband Nordrhein (Gute Barrierefreiheit))[https://www.bsv-nordrhein.de/]
+
+# Neue A11Y Test-Extensions
+
+-   (A11y quick check)[https://chromewebstore.google.com/detail/a11y-quick-check/jlamgighkcjniljcdfpnhiemcakibepi]
+-   (Alternative Texte entwickeln)[https://toolbox.teilhabe4punkt0.de/tools/texten-web#4-text-alternativen]
+-   (Website-Analyse (Lighthouse) von Google)[https://pagespeed.web.dev/]
+-   (Inklusive Komponenten)[https://inclusive-components.design/]

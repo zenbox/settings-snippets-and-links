@@ -12,6 +12,7 @@
 -   **Live Server** (Ritwick Dey); https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 -   **Live Sass Compiler** (Glenn Marks); https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass
 -   **Better Comments** (Aaron Bond); https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+-   **Todo Tree** (Gruntfuggly); https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 -   **Path Intellisense** (Christian Kohler); https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 -   **Auto Rename Tag** (Jun Han); https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 -   **Markdown All in One** (Yu Zhang); https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
