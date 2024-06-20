@@ -36,6 +36,8 @@
 -   [Wie man die WCAG erfüllt](https://www.einfach-fuer-alle.de/wcag2.0/uebersetzungen/How-to-Meet-WCAG-2.0/#qr-text-equiv-all)
 -   [WAI Authoring Practise Guide](https://www.w3.org/WAI/ARIA/apg/)
 -   [ARIA Roles and Attributes (Mozilla)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+-   [ARIA-\* (selfhtml)](https://wiki.selfhtml.org/wiki/HTML/Attribute/aria-*)
+-   [W3C Landmarks](https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/examples/general-principles.html)
 
 ### Andere Ausarbeitungen
 
