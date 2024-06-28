@@ -41,7 +41,7 @@
 -   [ARIA Roles and Attributes (Mozilla)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 -   [ARIA-\* (selfhtml)](https://wiki.selfhtml.org/wiki/HTML/Attribute/aria-*)
 -   [W3C Landmarks](https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/examples/general-principles.html)
--   (Kategoriesierung der Aria-Attribute)[https://www.w3.org/TR/2014/REC-wai-aria-20140320/roles#roles_categorization]
+-   [Kategorisierung der Aria-Attribute](https://www.w3.org/TR/2014/REC-wai-aria-20140320/roles#roles_categorization)
 
 ### Andere Ausarbeitungen
 
