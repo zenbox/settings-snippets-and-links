@@ -23,12 +23,16 @@
     [Hinweise zur barrierefreien Umsetzung](https://www.barrierefreigestalten.de/)
 -   [A11y Project](https://www.a11yproject.com/) - Projekt zur Barrierefreiheit
 -   [A11y Style Guide](https://a11y-style-guide.com/style-guide/) - Style Guide für Barrierefreiheit
+-   [Barrierefreie Gestaltung von User Interface-Elementen ](https://handreichungen.bfit-bund.de/barrierefreie-uie/) der Überwachungsstelle des Bundes für Barrierefreiheit vin Informationstechnik
 
 ### BITV
 
 -   [BITV](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html) - BITV (Bundesministerium für Justiz)
 -   [BIK - Barrierefrei informieren und kommunizieren](https://bik-fuer-alle.de/barrierefreiheit-umsetzen.html) - Leitfaden zur Umsetzung barrierefreier Webseiten
 -   [BITV Prüfschritte](https://ergebnis.bitvtest.de/pruefverfahren?tx_twbitvtest_procedure%5Baction%5D=show&tx_twbitvtest_procedure%5Bcontroller%5D=Procedure&tx_twbitvtest_procedure%5Bprocedure%5D=11&cHash=4a277975185785af9c687eb03489b3ef) - Das offizielle Prüfverfahren
+
+### Checklisten
+[Intopia - Checklisten für HTML-Komponenten erzeugen](https://intopia-ac.vercel.app)
 
 ### Komponenten und Patterns
 
@@ -117,7 +121,8 @@
 -   [Die Seite der Berufsgenossenschaft in Leichter Sprache](https://www.bgw-online.de/bgw-online-de/begriffe-in-leichter-sprache-berufs-genossenschaft-einfach-28780) - Gutes Beispiel für Leichte Sprache
 
 ## Forschung
-
+- [Sara Souedidan: A guide to designing accessible, WCAG-conformant focus indicators
+](https://www.sarasoueidan.com/blog/focus-indicators/)
 -   [Barrierefreie Charts](https://courses.isds.tugraz.at/ivis/surveys/ss2021/ivis-ss2021-g1-survey-accessible-charts.pdf) - Studienarbeit über barrierefreie Charts
 -   [Grafik vorlesen](https://semanticresponsiveillustration.com/) - Experimentelle Technik, um Grafiken vorlesen zu lassen
 -   [Exklusives Design (Forschung)](https://exclusive-design.vasilis.nl/)
