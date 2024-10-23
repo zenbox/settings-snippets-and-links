@@ -57,6 +57,7 @@
 
 ### Automatisiertes Testen
 
+-   [A11y quick check](https://chromewebstore.google.com/detail/a11y-quick-check/jlamgighkcjniljcdfpnhiemcakibepi)
 -   [WAVE Web Accessibilty Evaluation Tool](https://wave.webaim.org/extension/)
 -   [ARC-Tool-Kit](https://chromewebstore.google.com/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce?utm_source=ext_app_menu) - Barrierefreiheit umfangreich testen.
 -   [EqualWeb Accessibility Checker](https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg?hl=de) - Der EqualWeb Web Accessibility Checker ist ein kostenloses automatisiertes Prüfwerkzeug für die WCAG 2.1-Validierung.
@@ -134,7 +135,9 @@
 -   [stripe.com](https://stripe.com/en-de) - Beispiel für eine gute Navigation
 -   [zalando.de](https://www.zalando.de/) - Beispiel für eine gute Navigation
 -   [Headless UI `focus management`](https://headlessui.com/react/listbox#focus-management) - Beispiel für `focus management` bei Headless UI
--   [Diakonie ](https://karriere.diakonie.de/) - Bsispiel für gute Barrierefreiheit
+-   [Webseite der Stadt Bonn](https://bonn.de) - Beispiel für sehr gute Barrierfreiheit
+-   [Wiener Linien](https://wienerlinien.at) - Beispiel für gute Barrierefreiheit
+-   [Diakonie ](https://karriere.diakonie.de/) - Beispiel für gute Barrierefreiheit
 -   [Blindenverband Nordrhein](https://www.bsv-nordrhein.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesministerium für Arbeit und Soziales](https://www.bmas.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesregierung](https://www.bundesregierung.de/) - Beispiel für gute Barrierefreiheit
