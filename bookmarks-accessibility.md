@@ -130,7 +130,7 @@
 -   [Grafik vorlesen](https://semanticresponsiveillustration.com/) - Experimentelle Technik, um Grafiken vorlesen zu lassen
 -   [Exklusives Design (Forschung)](https://exclusive-design.vasilis.nl/)
 
-# Webseiten mit interessanten Details
+# Webseiten mit interessanten Details oder insgesamt guter Barrierfreiheit
 
 -   [stripe.com](https://stripe.com/en-de) - Beispiel für eine gute Navigation
 -   [zalando.de](https://www.zalando.de/) - Beispiel für eine gute Navigation
