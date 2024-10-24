@@ -130,11 +130,14 @@
 -   [Grafik vorlesen](https://semanticresponsiveillustration.com/) - Experimentelle Technik, um Grafiken vorlesen zu lassen
 -   [Exklusives Design (Forschung)](https://exclusive-design.vasilis.nl/)
 
-# Webseiten mit interessanten Details oder insgesamt guter Barrierfreiheit
+# Webseiten mit interessanten Details
 
 -   [stripe.com](https://stripe.com/en-de) - Beispiel für eine gute Navigation
 -   [zalando.de](https://www.zalando.de/) - Beispiel für eine gute Navigation
 -   [Headless UI `focus management`](https://headlessui.com/react/listbox#focus-management) - Beispiel für `focus management` bei Headless UI
+
+# Webseiten mit guter Barrierefreiheit
+
 -   [Webseite der Stadt Bonn](https://bonn.de) - Beispiel für sehr gute Barrierfreiheit
 -   [Wiener Linien](https://wienerlinien.at) - Beispiel für gute Barrierefreiheit
 -   [Diakonie ](https://karriere.diakonie.de/) - Beispiel für gute Barrierefreiheit
