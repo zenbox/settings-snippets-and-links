@@ -144,4 +144,3 @@
 -   [Blindenverband Nordrhein](https://www.bsv-nordrhein.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesministerium für Arbeit und Soziales](https://www.bmas.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesregierung](https://www.bundesregierung.de/) - Beispiel für gute Barrierefreiheit
-deque university
