@@ -138,9 +138,10 @@
 
 # Webseiten mit guter Barrierefreiheit
 
--   [Webseite der Stadt Bonn](https://bonn.de) - Beispiel für sehr gute Barrierfreiheit
+-   [Webseite der Stadt Bonn](https://bonn.de) - Beispiel für gute Barrierefreiheit
 -   [Wiener Linien](https://wienerlinien.at) - Beispiel für gute Barrierefreiheit
 -   [Diakonie ](https://karriere.diakonie.de/) - Beispiel für gute Barrierefreiheit
 -   [Blindenverband Nordrhein](https://www.bsv-nordrhein.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesministerium für Arbeit und Soziales](https://www.bmas.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesregierung](https://www.bundesregierung.de/) - Beispiel für gute Barrierefreiheit
+deque university
