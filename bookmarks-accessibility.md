@@ -143,6 +143,7 @@
 -   [Gehirngerecht Digital](https://gehirngerecht.digital/wcag-kriterien/)
 -   [IAAP - Zertifizierungen](https://iaap-dach.org/)
 -   [deque University](https://dequeuniversity.com/)
+-   [BITV Selbstbewertung](https://studio.bitvtest.de/)
 
 # Webseiten mit interessanten Details
 
