@@ -131,9 +131,18 @@
 -   [Exklusives Design (Forschung)](https://exclusive-design.vasilis.nl/)
 -
 
-# Barrierefreie PDFs
+# Anderes
 
 -   [Matterhorn Protokoll](https://pdfa.org/das-matterhorn-protokoll-1-0/?lang=de)
+-   [Mustererklärung Barrierefreiheit EU](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32018D1523)
+-   [WCAG 3.0](https://www.w3.org/TR/wcag-3.0/)
+-   [Gebärdensprache Avatar](https://www.gebaerdensprach-avatar.de/)
+-   [BITV als Gesetzestext](https://www.gesetze-im-internet.de/bitv_2_0/)
+-   [Accessibility Insights](https://accessibilityinsights.io/)
+-   [Barrierefrei lehren](https://barrierefreiheit.hdm-stuttgart.de/2024/09/25/webinar-knowledge-badge-barrierefrei-lehren/)
+-   [Gehirngerecht Digital](https://gehirngerecht.digital/wcag-kriterien/)
+-   [IAAP - Zertifizierungen](https://iaap-dach.org/)
+-   [deque University](https://dequeuniversity.com/)
 
 # Webseiten mit interessanten Details
 
