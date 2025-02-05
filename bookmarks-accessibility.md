@@ -164,3 +164,4 @@
 
 -   [Blog von TPGi (früher The Paciello Group)](https://www.tpgi.com/technical/)
 -   [Screenreader Unterstützung für ARIA](https://www.powermapper.com/tests/screen-readers/aria/)
+-   [Alistapart über ARIA](https://alistapart.com/article/the-accessibility-of-wai-aria/)
