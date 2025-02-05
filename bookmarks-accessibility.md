@@ -159,3 +159,8 @@
 -   [Blindenverband Nordrhein](https://www.bsv-nordrhein.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesministerium für Arbeit und Soziales](https://www.bmas.de/) - Beispiel für gute Barrierefreiheit
 -   [Bundesregierung](https://www.bundesregierung.de/) - Beispiel für gute Barrierefreiheit
+
+# Lesezeichen
+
+-   [Blog von TPGi (früher The Paciello Group)](https://www.tpgi.com/technical/)
+-   [Screenreader Unterstützung für ARIA](https://www.powermapper.com/tests/screen-readers/aria/)
