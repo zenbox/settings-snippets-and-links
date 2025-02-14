@@ -84,9 +84,13 @@
 
 -   [Gestaltung für Screenreader-Kompatibilität](https://immocado.com/barrierefrei/designing-screen-reader-compatibility/) - Artikel über die Gestaltung für Screenreader-Kompatibilität
 
-## Testen und Prüfen
+## Tools Testen und Prüfen
 
-### Tools
+### Barrierefreiheit nach BITV oder WCAG testen
+
+-   [W3C-Tool zur Erstellung von Prüfberichten](https://www.w3.org/WAI/eval/report-tool/)
+
+### Prüfen von Farben und Kontrasten
 
 -   [Sim Daltonismn (Mac)](https://michelf.ca/projects/sim-daltonism/) - Simulation von Farbenfehlsichtigkeiten und Farbenblindheit
 -   [Color Blindness (Windows)](https://apps.microsoft.com/detail/9NBLGGH4385H?hl=en-US&gl=US) - Simulation von Farbenfehlsichtigkeiten und Farbenblindheit
