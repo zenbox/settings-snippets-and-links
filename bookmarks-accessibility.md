@@ -15,6 +15,8 @@
 -   [ARIA-\*](https://wiki.selfhtml.org/wiki/HTML/Attribute/aria-*) - SelfHTML in deutsch
 -   [W3C Landmarks](https://www.w3.org/WAI/ARIA/apg/patterns/landmarks/examples/general-principles.html) - W3C
 -   [Kategorisierung der Aria-Attribute](https://www.w3.org/TR/2014/REC-wai-aria-20140320/roles#roles_categorization) - W3C, grafische Übersicht
+-   [ARIA Unterstützunh nach Browser und Screenreader](https://a11ysupport.io/)
+-   [ARIA-Praxis](https://www.w3.org/WAI/ARIA/practices/) - W3C - Praktische Anleitungen zur Umsetzung der WCAG
 
 ### Andere Ausarbeitungen
 
