@@ -30,7 +30,7 @@
 
 -   [BITV](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html) - BITV (Bundesministerium für Justiz)
 -   [BIK - Barrierefrei informieren und kommunizieren](https://bik-fuer-alle.de/barrierefreiheit-umsetzen.html) - Leitfaden zur Umsetzung barrierefreier Webseiten
--   [BITV Prüfschritte](https://ergebnis.bitvtest.de/pruefverfahren?tx_twbitvtest_procedure%5Baction%5D=show&tx_twbitvtest_procedure%5Bcontroller%5D=Procedure&tx_twbitvtest_procedure%5Bprocedure%5D=11&cHash=4a277975185785af9c687eb03489b3ef) - Das offizielle Prüfverfahren
+-   [BITV Prüfschritte](https://bitvtest.de/pruefverfahren/bitv-20-web) - Das offizielle Prüfverfahren
 -   [Barrierefreie Gestaltung von User Interface-Elementen ](https://handreichungen.bfit-bund.de/barrierefreie-uie/) der Überwachungsstelle des Bundes für Barrierefreiheit vin Informationstechnik
 
 ### Checklisten
@@ -96,6 +96,10 @@
 
 -   [Sim Daltonismn (Mac)](https://michelf.ca/projects/sim-daltonism/) - Simulation von Farbenfehlsichtigkeiten und Farbenblindheit
 -   [Color Blindness (Windows)](https://apps.microsoft.com/detail/9NBLGGH4385H?hl=en-US&gl=US) - Simulation von Farbenfehlsichtigkeiten und Farbenblindheit
+
+-   [Figma Tool und Plugin](https://www.getstark.co/figma/)
+-   [Kontrastrechner für Farben](https://barrierefreies.design/werkzeuge/kontrastrechner-fuer-farben)
+-   [Kontraste und Kombinationen als Matrix](https://contrast-grid.eightshapes.com/?version=1.1.0&background-colors=&foreground-colors=%23FFFFFF%2C%20White%0D%0A%23F2F2F2%0D%0A%23DDDDDD%0D%0A%23CCCCCC%0D%0A%23888888%0D%0A%23404040%2C%20Charcoal%0D%0A%23000000%2C%20Black%0D%0A%232F78C5%2C%20Effective%20on%20Extremes%0D%0A%230F60B6%2C%20Effective%20on%20Lights%0D%0A%23398EEA%2C%20Ineffective%0D%0A&es-color-form__tile-size=compact&es-color-form__show-contrast=aaa&es-color-form__show-contrast=aa&es-color-form__show-contrast=aa18&es-color-form__show-contrast=dnp)
 -   [Farben und Kontraste in Echtzeit prüfen](https://contrast-checker.glitch.me/) - Online-Tool zum Prüfen von Farben und Kontrasten
 -   [Farben und Kontraste mit Farbskalen](https://colorbox.io/) - Online-Tool zum Prüfen von Farben und Kontrasten über einstellbare Farbbereiche
 -   [Farben und Kontraste für Texte](https://webaim.org/resources/contrastchecker/) - Online-Tool zum Prüfen von Farben und Kontrasten für Texte
